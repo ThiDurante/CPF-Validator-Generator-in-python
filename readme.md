@@ -32,7 +32,7 @@ The reqs are the requisites the project had at Trybe
 - basics of python
 - A bit of logic
 - How a CPF (brazilian document similar to Social Security Number in USA) is validated!
--
+- Building applications outside of a browser!
 
 ## 🚀 About me
 
