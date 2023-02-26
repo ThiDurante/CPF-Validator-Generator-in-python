@@ -36,8 +36,8 @@ def askAndTreatCPF():
 
 
 def checkValidCPF(cpf):
-    last_two = cpf[9:]
-    nine_digits = cpf[:9]
+    last_two = str(cpf)[9:]
+    nine_digits = str(cpf)[:9]
     if verifyLastTwoDigits(nine_digits, last_two):
         print(f'{cpf} is a valid CPF')
     else:
