@@ -8,8 +8,11 @@ Just copy de repo into your pc and run it
 PS: You must have python installed
 
 ```bash
+  # copy the repo
   git clone git@github.com:ThiDurante/CPF-Validator-Generator-in-python.git
+  # go inside the folder that you copied
   cd locationOfFiles
+  # run the script!
   py cpf.py
 ```
 
