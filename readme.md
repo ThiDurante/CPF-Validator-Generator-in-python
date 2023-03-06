@@ -2,6 +2,8 @@
 
 Simple project done while I was starting to study Python, easy and intuitive to navigate.
 
+This was a project that I did myself, messing around with how things working in python.
+
 ## Installation and use
 
 Just copy de repo into your pc and run it
@@ -20,7 +22,7 @@ Depending on your configuration you need to run it with python cpf.py instead of
 
 ## Screenshots
 
-The reqs are the requisites the project had at Trybe
+Here is a few images of the program working!
 
 ![App Screenshot](https://i.imgur.com/iCSHXd3.png)
 
